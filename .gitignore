@@ -1,0 +1,17 @@
+target
+bin
+.settings
+.project
+.classpath
+nbproject
+clients.dat
+attributes.dat
+visits.dat
+clients_nosql.dat
+visits_info.dat
+private.xml
+visits_*.dat
+
+/fingerprint-client/visits_info.dat.orig
+*~
+
